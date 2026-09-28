@@ -1,0 +1,10 @@
+# Do not edit manually
+
+
+public/*.html linguist-vendored
+
+*.woff binary
+src/*.ts linguist-detectable
+*.yaml linguist-detectable=false
+src/**/*.tsx linguist-detectable
+# eof 1efb7e09
